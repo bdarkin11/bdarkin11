@@ -1,0 +1,9 @@
+# Reglas de seguridad comunes
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.claude/
+.claudecode/
+*.log
