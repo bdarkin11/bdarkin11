@@ -14,8 +14,8 @@ Desarrollador. Armo juegos web, herramientas para streaming, bots y aplicaciones
 
 ## Stack
 
-**Lenguajes:** TypeScript · Python · JavaScript
-**Frontend y testing:** Vite · Canvas 2D · Vitest · Playwright
-**Backend y despliegue:** Vercel · Supabase · Firebase
-**APIs e integraciones:** Riot Games · Twitch · OBS WebSocket · Google Gemini
-**Herramientas:** Git · VS Code
+- **Lenguajes:** TypeScript · Python · JavaScript
+- **Frontend y testing:** Vite · Canvas 2D · Vitest · Playwright
+- **Backend y despliegue:** Vercel · Supabase · Firebase
+- **APIs e integraciones:** Riot Games · Twitch · OBS WebSocket · Google Gemini
+- **Herramientas:** Git · VS Code
