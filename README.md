@@ -1,11 +1,11 @@
 # Hi, I'm Nahuel Olima 👋
 
-**Full Stack Developer & Product Builder** · TypeScript · React · Python · AI integration
+**Full Stack Developer & Product Engineer** · TypeScript · React · Python · AI integration
 
 I build and ship complete web products, from the data layer to the UI, using AI-assisted workflows backed by strict typing and automated tests. Since 2020 I've worked as a freelance graphic designer and video editor for content creators, and for the last two years I've been building my own products. That design work shapes how my apps look and feel.
 
 - 🌎 Buenos Aires, Argentina · Open to remote roles (US / EU / LATAM)
-- 📫 [LinkedIn](https://www.linkedin.com/in/nahu-olima-47257a327/) · [nahuolima98@gmail.com](mailto:nahuolima98@gmail.com)
+- 📫 [LinkedIn](https://www.linkedin.com/in/nahuel-olima-47257a327/) · [nahuolima98@gmail.com](mailto:nahuolima98@gmail.com)
 
 ## Featured projects
 
